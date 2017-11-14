@@ -4,18 +4,13 @@
   "author": "Dmitrii Suchkov <dsuchkov@codio.com>",
   "description": "ShareJS Tools",
   "private": true,
-  "bin": {
-  },
-  "scripts": {
-  },
+  "bin": {},
+  "scripts": {},
   "main": "./index.js",
-  "repository": {
-  },
+  "repository": {},
   "dependencies": {
     "ottypes": "codio/ottypes",
-    "mongodb": "1.4.9"
+    "mongodb": "2.2.33"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
-
